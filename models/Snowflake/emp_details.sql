@@ -1,0 +1,1 @@
+select employee_id, first_name, last_name FROM myschema.employees where department_id=90
